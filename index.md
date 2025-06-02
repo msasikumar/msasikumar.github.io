@@ -1,37 +1,7 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<head>
-    <meta charset="UTF-8">
-    <title>Sasikumar Manickam - Senior Data Engineer</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-    <style>
-        body { font-family: 'Open Sans', sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
-        .container { width: 80%; margin: auto; overflow: hidden; padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        header { background: #333; color: #fff; padding: 20px 0; text-align: center; }
-        header h1 { margin: 0; font-size: 2.5em; }
-        header p { font-size: 1.2em; }
-        nav { text-align: center; margin-bottom: 20px; }
-        nav a { margin: 0 15px; text-decoration: none; color: #333; font-weight: bold; }
-        section { margin-bottom: 20px; padding: 15px; border-bottom: 1px solid #eee; }
-        section:last-child { border-bottom: none; }
-        h2 { color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; }
-        ul { list-style-type: none; padding: 0; }
-        ul li { margin-bottom: 10px; line-height: 1.6; }
-        .contact-info a { color: #0077b5; text-decoration: none; }
-        .contact-info a:hover { text-decoration: underline; }
-        footer { text-align: center; padding: 20px; background: #333; color: #fff; margin-top: 20px; }
-        .job { margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
-        .job:last-child { border-bottom: none; }
-        .job h3 { margin-top: 0; color: #555; }
-        .job p strong { color: #333; }
-        .job ul { padding-left: 20px; list-style-type: disc; }
-    </style>
-</head>
-<body>
+---
+layout: default
+title: Home
+---
     <header>
         <h1>Sasikumar Manickam</h1>
         <p>Senior Data Engineer | ML | AI | Data Science</p>
@@ -171,5 +141,3 @@
     <footer>
         <p>&copy; 2024 Sasikumar Manickam</p>
     </footer>
-</body>
-</html>

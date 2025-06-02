@@ -1,0 +1,15 @@
+# Ignore bundler cache and local gems
+vendor/bundle/
+
+# Ignore Jekyll build output
+_site/
+
+# Ignore Sass cache
+.sass-cache/
+
+# Ignore other common files
+.DS_Store
+*.gem
+*.rbc
+# Gemfile.lock # Usually committed
+# If you have other build artifacts, add them here.
