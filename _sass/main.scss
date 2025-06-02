@@ -1,0 +1,169 @@
+// Netflix Brand Colors
+$netflix-red: #E50914;
+$netflix-black: #221f1f; // A common dark gray/black used by Netflix
+$netflix-gray: #f5f5f1; // Light gray for backgrounds or text
+$netflix-white: #ffffff;
+
+// Website specific variables
+$primary-color: $netflix-red;
+$secondary-color: $netflix-black;
+$background-color: $netflix-black;
+$text-color: $netflix-gray;
+$link-color: $netflix-red;
+$header-text-color: $netflix-white;
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: $background-color;
+    color: $text-color;
+}
+
+header {
+    background-color: $secondary-color;
+    color: $header-text-color;
+    padding: 1em 0;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+    text-align: center;
+    // Example of using a slightly lighter background for main content area for contrast
+    // background-color: lighten($background-color, 5%);
+}
+
+footer {
+    background-color: $secondary-color;
+    color: $header-text-color;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* General link styling */
+a {
+    color: $link-color;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: $header-text-color; /* Or $primary-color if it fits the design */
+}
+
+/* Container */
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background-color: lighten($background-color, 5%); // Slightly lighter than body for contrast
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); // Darker shadow for dark theme
+}
+
+/* Header specific styles */
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: $header-text-color;
+}
+
+header p {
+    font-size: 1.2em;
+    color: $netflix-gray; // Lighter text for subtitle
+}
+
+/* Navigation */
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: $link-color; // Use defined link color
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: lighten($link-color, 10%); // Slightly lighter on hover
+    text-decoration: underline;
+}
+
+/* Sections */
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-bottom: 1px solid $secondary-color; // Use secondary color for borders
+}
+
+section:last-child {
+    border-bottom: none;
+}
+
+section h2 {
+    color: $primary-color; // Use primary color for section titles
+    border-bottom: 2px solid $primary-color;
+    padding-bottom: 5px;
+}
+
+/* Lists */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+    color: $text-color;
+}
+
+/* Contact Info specific links */
+.contact-info a {
+    color: $link-color;
+}
+
+.contact-info a:hover {
+    color: lighten($link-color, 10%);
+    text-decoration: underline;
+}
+
+/* Job specific styles */
+.job {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid $secondary-color; // Use secondary color for borders
+}
+
+.job:last-child {
+    border-bottom: none;
+}
+
+.job h3 {
+    margin-top: 0;
+    color: $netflix-white; // Lighter color for job titles on dark background
+}
+
+.job p strong {
+    color: $netflix-gray; // Lighter color for emphasis
+}
+
+.job ul {
+    padding-left: 20px;
+    list-style-type: disc;
+    color: $text-color;
+}
+
+.job ul li {
+    color: $text-color;
+}
