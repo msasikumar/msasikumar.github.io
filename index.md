@@ -38,6 +38,7 @@ title: Home
             <h2>Professional Experience</h2>
             <div class="job">
                 <h3>Senior ML/DS/Data Engineer</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>BLUE ORIGIN, Kent, WA</strong> | DEC 2022 - Present</p>
                 <ul>
                     <li>Architected a high-performance data platform using AWS API Gateway, Kinesis, ECS, and Databricks, achieving 99.99% uptime and 5x faster data processing for large-scale hotfire engine datasets, processing 1-2 TB daily.</li>
@@ -49,6 +50,7 @@ title: Home
 
             <div class="job">
                 <h3>Principal, Senior Data and Solutions Architect. AI and Data Platform</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>Kin and Carta (Valtech)</strong> | MAR 2021 – DEC 2022</p>
                 <p><em>Kin + Carta is a global digital transformation business. As a senior data and solutions architect, I have developed and executed projects for the following clients.</em></p>
                 <ul>
@@ -61,6 +63,7 @@ title: Home
 
             <div class="job">
                 <h3>Senior Manager, Enterprise Data Services</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>ADTALEM Global Education Group, Chicago, IL</strong> | JAN 2018 – FEB 2021</p>
                 <ul>
                     <li>Led migration of legacy data warehouse to Snowflake, streamlining ETL processes to save $500K annually and improve data processing efficiency by 60%.</li>
@@ -70,6 +73,7 @@ title: Home
 
             <div class="job">
                 <h3>Consultant, Development Manager/Architect</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>FRESCHE Solutions Inc., Montreal, Québec (Remote)</strong> | JAN 2017 - JAN 2018</p>
                 <ul>
                     <li>As an Architect and Manager of the Development team, I was responsible for completing, modernizing, and digitizing branch operations for ABC Supply Inc. I designed and led a team of eight. Tasks include replacing the legacy fax system and batch EDI with secure web services.</li>
@@ -79,6 +83,7 @@ title: Home
 
             <div class="job">
                 <h3>Manager, Application Development (2012–2016); Team Leader, Technical (2010–2012); Senior Programmer Analyst (2004–2010)</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>Follett Corporation, Westchester, IL</strong> | Mar 2004 – Dec 2016</p>
                 <ul>
                     <li>Architected a scalable data integration platform for inventory management across 1,400 stores, streamlining ETL processes to save $18M annually in operational costs.</li>
@@ -88,6 +93,7 @@ title: Home
 
             <div class="job">
                 <h3>Senior Programmer Analyst/Consultant</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>Rapidigm, Inc., Seattle, WA</strong> | 2001 – 2004</p>
                 <ul>
                     <li>Designed and implemented data integration solutions for retail and supply chain systems at Starbucks and Boeing, optimizing JDA inventory data pipelines for real-time accuracy.</li>
@@ -96,6 +102,7 @@ title: Home
 
             <div class="job">
                 <h3>Programmer Analyst</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>Friendly Advanced Software Technology, Hauppauge, NY</strong> | 1999 – 2001</p>
                 <ul>
                     <li>Developed data processing and reporting systems for Schering-Plough, enhancing MRP II data workflows for manufacturing efficiency.</li>
@@ -104,6 +111,7 @@ title: Home
 
             <div class="job">
                 <h3>BPCS Analyst/Programmer</h3>
+                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>LINC Software Services, Bangalore, India</strong> | 1996 – 1998</p>
                 <ul>
                     <li>Led modernization of legacy systems to web-based data services using SOA, reducing data processing times by 95% for e-commerce and inventory workflows.</li>
