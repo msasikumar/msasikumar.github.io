@@ -8,7 +8,7 @@ title: Home
 <link rel="stylesheet" href="/assets/css/styles.css">
 <header>
         <h1>Sasikumar Manickam</h1>
-        <p>Senior Data Engineer | ML | AI | Data Science</p>
+        <p>Senior Manager | Senior Data Engineer | ML | AI | Data Science</p>
 </header>
 <div class="container">
 <nav>
@@ -139,9 +139,6 @@ title: Home
                 <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sasikumarmanickam" target="_blank">linkedin.com/in/sasikumarmanickam</a></li>
                 <li><strong>GitHub:</strong> <a href="https://github.com/msasikumar" target="_blank">github.com/msasikumar</a></li>
             </ul>
-            <p><strong>I am actively seeking new opportunities and would welcome the chance to discuss how my skills and experience can benefit your organization. Please feel free to reach out via email or connect with me on LinkedIn.</strong></p>
+            <p><strong>Please feel free to reach out via email or connect with me on LinkedIn.</strong></p>
         </section>
     </div>
-    <footer>
-        <p>&copy; 2024 Sasikumar Manickam</p>
-    </footer>

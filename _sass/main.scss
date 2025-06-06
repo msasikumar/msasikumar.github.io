@@ -29,7 +29,7 @@ header {
 
 main {
     padding: 1em;
-    text-align: center;
+    text-align: left;
     // Example of using a slightly lighter background for main content area for contrast
     // background-color: lighten($background-color, 5%);
 }
@@ -83,7 +83,7 @@ header p {
 
 /* Navigation */
 nav {
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
 }
 
