@@ -2,19 +2,23 @@
 layout: default
 title: Home
 ---
-    <header>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title | default: site.title }}</title>
+<link rel="stylesheet" href="/assets/css/styles.css">
+<header>
         <h1>Sasikumar Manickam</h1>
         <p>Senior Data Engineer | ML | AI | Data Science</p>
-    </header>
-    <div class="container">
-        <nav>
-            <a href="#summary">Summary</a>
-            <a href="#skills">Skills</a>
-            <a href="#experience">Experience</a>
-            <a href="#education">Education</a>
-            <a href="#certifications">Certifications</a>
-            <a href="#contact">Contact</a>
-        </nav>
+</header>
+<div class="container">
+<nav>
+    <a href="#summary">Summary</a>
+    <a href="#skills">Skills</a>
+    <a href="#experience">Experience</a>
+    <a href="#education">Education</a>
+    <a href="#certifications">Certifications</a>
+    <a href="#contact">Contact</a>
+</nav>
         <section id="summary">
             <h2>Summary</h2>
             <p>Welcome to my professional portfolio. I am a Senior Data Engineer with a passion for leveraging data to drive innovation and solve complex challenges.</p>
