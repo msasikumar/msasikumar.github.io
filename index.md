@@ -38,7 +38,7 @@ title: Home
             <h2>Professional Experience</h2>
             <div class="job">
                 <h3>Senior ML/DS/Data Engineer</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
+                <img src="images/logo_blue_origin.png" width="70px">
                 <strong>&nbsp;&nbsp;&nbsp;BLUE ORIGIN, Kent, WA</strong> | DEC 2022 - Present
                 <ul>
                     <li>Architected a high-performance data platform using AWS API Gateway, Kinesis, ECS, and Databricks, achieving 99.99% uptime and 5x faster data processing for large-scale hotfire engine datasets, processing 1-2 TB daily.</li>
@@ -84,7 +84,7 @@ title: Home
             <div class="job">
                 <h3>Manager, Application Development (2012–2016); Team Leader, Technical (2010–2012); Senior Programmer Analyst (2004–2010)</h3>
                 <img src="images/follett_higher_education_logo.jpeg" width="50px">
-                <p><strong>Follett Corporation, Westchester, IL</strong> | Mar 2004 – Dec 2016</p>
+                <strong>Follett Corporation, Westchester, IL</strong> | Mar 2004 – Dec 2016
                 <ul>
                     <li>Architected a scalable data integration platform for inventory management across 1,400 stores, streamlining ETL processes to save $18M annually in operational costs.</li>
                     <li>Led modernization of legacy systems to web-based data services using SOA, reducing data processing times by 95% for e-commerce and inventory workflows.</li>
@@ -118,11 +118,11 @@ title: Home
         <section id="education">
             <h2>Education</h2>
             <ul>
-                <li><strong><img src="images/follett_higher_education_logo.jpeg" width="50px">DEPAUL UNIVERSITY, Chicago, Illinois</strong> – Master’s In Predictive Data Analytics (MS)</li>
-                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>DEVRY UNIVERSITY, KELLER SCHOOL OF MANAGEMENT, Chicago, Illinois</strong> – Master Of Business Administration (MBA)</li>
-                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>UNIVERSITY OF CHICAGO, GRAHAM/BOOTH SCHOOL OF BUSINESS, Chicago, Illinois</strong> – Graduate Student At Large (GSAL)</li>
-                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>RASMUSSEN COLLEGE, Chicago, Illinois</strong> – Business Systems (BS)</li>
-                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>PSG COLLEGE OF ARTS AND SCIENCE, COIMBATORE, INDIA</strong> – Physics (BS)</li>
+                <li><strong><img src="images/depaul_university_logo.jpeg" width="25px">DEPAUL UNIVERSITY, Chicago, Illinois</strong> – Master’s In Predictive Data Analytics (MS)</li>
+                <li><img src="images/devry_university_logo.jpeg" width="25px"><strong>DEVRY UNIVERSITY, KELLER SCHOOL OF MANAGEMENT, Chicago, Illinois</strong> – Master Of Business Administration (MBA)</li>
+                <li><img src="images/University-of-Chicago-Seal.png" width="50px"><strong>UNIVERSITY OF CHICAGO, GRAHAM/BOOTH SCHOOL OF BUSINESS, Chicago, Illinois</strong> – Graduate Student At Large (GSAL)</li>
+                <li><img src="images/RASMUSSEN.jpeg" width="25Px"><strong>RASMUSSEN COLLEGE, Chicago, Illinois</strong> – Business Systems (BS)</li>
+                <li><img src="images/PSGCAS.jpg" width="25px"><strong>PSG COLLEGE OF ARTS AND SCIENCE, COIMBATORE, INDIA</strong> – Physics (BS)</li>
             </ul>
         </section>
         <section id="certifications">
