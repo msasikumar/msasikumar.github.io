@@ -1,19 +1,20 @@
 // Netflix Brand Colors
 $netflix-red: #E50914;
-$netflix-black: #221f1f; // A common dark gray/black used by Netflix
-$netflix-gray: #f5f5f1; // Light gray for backgrounds or text
+$netflix-black: #0e0d0d; 
+$netflix-gray: #2f04ef; 
 $netflix-white: #ffffff;
+$background: rgb(240, 224, 224);
 
 // Website specific variables
 $primary-color: $netflix-red;
-$secondary-color: $netflix-black;
-$background-color: $netflix-black;
-$text-color: $netflix-gray;
+$secondary-color: $background;
+$background-color: $background; // Using gray for a dark theme
+$text-color: $netflix-black;
 $link-color: $netflix-red;
-$header-text-color: $netflix-white;
+$header-text-color: $netflix-black;
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: NetflixSans, Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: $background-color;
@@ -78,7 +79,7 @@ header h1 {
 
 header p {
     font-size: 1.2em;
-    color: $netflix-gray; // Lighter text for subtitle
+    color: $netflix-black; // Lighter text for subtitle
 }
 
 /* Navigation */
@@ -151,11 +152,11 @@ ul li {
 
 .job h3 {
     margin-top: 0;
-    color: $netflix-white; // Lighter color for job titles on dark background
+    color: $netflix-black; // Lighter color for job titles on dark background
 }
 
 .job p strong {
-    color: $netflix-gray; // Lighter color for emphasis
+    color: $netflix-black; // Lighter color for emphasis
 }
 
 .job ul {

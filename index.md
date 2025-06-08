@@ -39,7 +39,7 @@ title: Home
             <div class="job">
                 <h3>Senior ML/DS/Data Engineer</h3>
                 <img src="images/logo_blue_origin.png" width="50px">
-                <p><strong>BLUE ORIGIN, Kent, WA</strong> | DEC 2022 - Present</p>
+                <strong>&nbsp;&nbsp;&nbsp;BLUE ORIGIN, Kent, WA</strong> | DEC 2022 - Present
                 <ul>
                     <li>Architected a high-performance data platform using AWS API Gateway, Kinesis, ECS, and Databricks, achieving 99.99% uptime and 5x faster data processing for large-scale hotfire engine datasets, processing 1-2 TB daily.</li>
                     <li>Migrated applications from PostgreSQL to Databricks, optimizing ETL pipelines (Python, Spark, SQL) to improve processing speed by 3x–10x and reduce downtime by 80%.</li>
@@ -50,9 +50,9 @@ title: Home
 
             <div class="job">
                 <h3>Principal, Senior Data and Solutions Architect. AI and Data Platform</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
-                <p><strong>Kin and Carta (Valtech)</strong> | MAR 2021 – DEC 2022</p>
-                <p><em>Kin + Carta is a global digital transformation business. As a senior data and solutions architect, I have developed and executed projects for the following clients.</em></p>
+                <img src="images/kinandcarta_logo.jpeg" width="50px">
+                <strong>Kin and Carta (Valtech)</strong> | MAR 2021 – DEC 2022
+                <p><em>&nbsp;&nbsp;&nbsp;BKin + Carta is a global digital transformation business. As a senior data and solutions architect, I have developed and executed projects for the following clients.</em></p>
                 <ul>
                     <li><strong>Northern Trust:</strong> Designed conceptual, logical, and physical data models using ER/Studio, enabling scalable data architectures for the Private Passport program.</li>
                     <li><strong>Herbalife:</strong> Built a self-service data platform on Azure, optimizing data pipelines for high-volume, high-velocity datasets, improving processing efficiency by 40%.</li>
@@ -63,8 +63,8 @@ title: Home
 
             <div class="job">
                 <h3>Senior Manager, Enterprise Data Services</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
-                <p><strong>ADTALEM Global Education Group, Chicago, IL</strong> | JAN 2018 – FEB 2021</p>
+                <img src="images/adtalemglobaleducation_logo.jpeg" width="50px">
+                <strong>&nbsp;&nbsp;&nbsp;ADTALEM Global Education Group, Chicago, IL</strong> | JAN 2018 – FEB 2021
                 <ul>
                     <li>Led migration of legacy data warehouse to Snowflake, streamlining ETL processes to save $500K annually and improve data processing efficiency by 60%.</li>
                     <li>Developed data integration services for 50+ sources (e.g., ERP, marketing), leveraging Informatica IICS and Python, with predictive NPS models enhancing student engagement.</li>
@@ -73,8 +73,8 @@ title: Home
 
             <div class="job">
                 <h3>Consultant, Development Manager/Architect</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
-                <p><strong>FRESCHE Solutions Inc., Montreal, Québec (Remote)</strong> | JAN 2017 - JAN 2018</p>
+                <img src="images/fresche_solutions_logo.jpeg" width="40px">
+                <strong>&nbsp;&nbsp;&nbsp;FRESCHE Solutions Inc., Montreal, Québec (Remote)</strong> | JAN 2017 - JAN 2018
                 <ul>
                     <li>As an Architect and Manager of the Development team, I was responsible for completing, modernizing, and digitizing branch operations for ABC Supply Inc. I designed and led a team of eight. Tasks include replacing the legacy fax system and batch EDI with secure web services.</li>
                     <li>Provided a solution for B2B order integration between ABC and retail customers like Home Depot and Lowe's using the Anypoint Platform.</li>
@@ -83,7 +83,7 @@ title: Home
 
             <div class="job">
                 <h3>Manager, Application Development (2012–2016); Team Leader, Technical (2010–2012); Senior Programmer Analyst (2004–2010)</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
+                <img src="images/follett_higher_education_logo.jpeg" width="50px">
                 <p><strong>Follett Corporation, Westchester, IL</strong> | Mar 2004 – Dec 2016</p>
                 <ul>
                     <li>Architected a scalable data integration platform for inventory management across 1,400 stores, streamlining ETL processes to save $18M annually in operational costs.</li>
@@ -93,7 +93,6 @@ title: Home
 
             <div class="job">
                 <h3>Senior Programmer Analyst/Consultant</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>Rapidigm, Inc., Seattle, WA</strong> | 2001 – 2004</p>
                 <ul>
                     <li>Designed and implemented data integration solutions for retail and supply chain systems at Starbucks and Boeing, optimizing JDA inventory data pipelines for real-time accuracy.</li>
@@ -102,7 +101,6 @@ title: Home
 
             <div class="job">
                 <h3>Programmer Analyst</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>Friendly Advanced Software Technology, Hauppauge, NY</strong> | 1999 – 2001</p>
                 <ul>
                     <li>Developed data processing and reporting systems for Schering-Plough, enhancing MRP II data workflows for manufacturing efficiency.</li>
@@ -111,7 +109,6 @@ title: Home
 
             <div class="job">
                 <h3>BPCS Analyst/Programmer</h3>
-                <img src="images/logo_blue_origin.png" width="50px">
                 <p><strong>LINC Software Services, Bangalore, India</strong> | 1996 – 1998</p>
                 <ul>
                     <li>Led modernization of legacy systems to web-based data services using SOA, reducing data processing times by 95% for e-commerce and inventory workflows.</li>
@@ -121,11 +118,11 @@ title: Home
         <section id="education">
             <h2>Education</h2>
             <ul>
-                <li><strong>DEPAUL UNIVERSITY, Chicago, Illinois</strong> – Master’s In Predictive Data Analytics (MS)</li>
-                <li><strong>DEVRY UNIVERSITY, KELLER SCHOOL OF MANAGEMENT, Chicago, Illinois</strong> – Master Of Business Administration (MBA)</li>
-                <li><strong>UNIVERSITY OF CHICAGO, GRAHAM/BOOTH SCHOOL OF BUSINESS, Chicago, Illinois</strong> – Graduate Student At Large (GSAL)</li>
-                <li><strong>RASMUSSEN COLLEGE, Chicago, Illinois</strong> – Business Systems (BS)</li>
-                <li><strong>PSG COLLEGE OF ARTS AND SCIENCE, COIMBATORE, INDIA</strong> – Physics (BS)</li>
+                <li><strong><img src="images/follett_higher_education_logo.jpeg" width="50px">DEPAUL UNIVERSITY, Chicago, Illinois</strong> – Master’s In Predictive Data Analytics (MS)</li>
+                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>DEVRY UNIVERSITY, KELLER SCHOOL OF MANAGEMENT, Chicago, Illinois</strong> – Master Of Business Administration (MBA)</li>
+                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>UNIVERSITY OF CHICAGO, GRAHAM/BOOTH SCHOOL OF BUSINESS, Chicago, Illinois</strong> – Graduate Student At Large (GSAL)</li>
+                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>RASMUSSEN COLLEGE, Chicago, Illinois</strong> – Business Systems (BS)</li>
+                <li><img src="images/follett_higher_education_logo.jpeg" width="50px"><strong>PSG COLLEGE OF ARTS AND SCIENCE, COIMBATORE, INDIA</strong> – Physics (BS)</li>
             </ul>
         </section>
         <section id="certifications">
